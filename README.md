@@ -7,8 +7,9 @@
 
 ### PostgreSQL
 1. postgres/create_tables.sql
-2. postgres/load_data.sql
-3. postgres/create_keys.sql
+2. postgres/parse_tbls.sh
+3. postgres/load_data.sql
+4. postgres/create_keys.sql
 
 ### MongoDB
 1. mongodb/create_csv.sh
